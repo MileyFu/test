@@ -1,5 +1,3 @@
 # test
 
-hello
-kkkk
-Sept 28 kaiyuanjishi
+test the pr review bot
